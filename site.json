@@ -1,0 +1,20 @@
+{
+  "$schema":"https://raw.githubusercontent.com/ichAEY/tanem-site-engine-v2/v0.1.0/site.schema.json",
+  "version":2,
+  "layout":"master",
+  "specialty":"nails",
+  "brand":{"name":"Snezhana Nails","subtitle":"мастер ногтевого сервиса","monogram":"S"},
+  "master":{"name":"Снежана","profession":"мастер ногтевого сервиса","locationLabel":"Москва · м. Пушкинская","heroTitle":"Snezhana Nails","heroAccent":"маникюр и педикюр","heroCopy":"Маникюр и педикюр в центре Москвы с предварительной записью и вниманием к деталям.","experience":"по записи","experienceLabel":"приём","aboutTitle":"Snezhana Nails","aboutLead":"Ногтевой сервис в Малом Палашёвском переулке, рядом с метро Пушкинская.","aboutParagraphs":["В карточке мастера указаны маникюр, педикюр, дизайн ногтей и укрепление.","Работа ведётся по предварительной записи; в карточке отмечены Wi‑Fi и подарочные сертификаты."],"skills":["Маникюр","Педикюр","Дизайн ногтей"]},
+  "location":{"city":"Москва","address":"Москва, Малый Палашёвский переулок, 6","mapCardAddress":"Малый Палашёвский переулок, 6","scheduleLabel":"По предварительной записи · до 22:00","timezone":"Europe/Moscow","weeklyHours":[],"mapEmbedUrl":"https://yandex.ru/map-widget/v1/?oid=112878921854&mode=search"},
+  "contacts":[{"type":"phone","label":"Позвонить","value":"+7 (999) 518-76-11","url":"tel:+79995187611","primary":true},{"type":"map","label":"Открыть Яндекс Карты","url":"https://yandex.ru/maps/org/snezhana_nails/112878921854/"}],
+  "reputation":{"rating":"5,0","reviewCount":"40","reviewsUrl":"https://yandex.ru/maps/org/snezhana_nails/112878921854/reviews/"},
+  "hero":{"portrait":{"src":"assets/hero.svg","alt":"Snezhana Nails — мастер ногтевого сервиса"},"aboutPhoto":{"src":"assets/hero.svg","alt":"Snezhana Nails"},"mobileVisual":{"src":"assets/hero.svg","alt":""},"thirdStat":"reviews"},
+  "portfolio":{"title":"Направления работы","lead":"Основные направления ногтевого сервиса","gallery":[{"src":"assets/hero.svg","alt":"Snezhana Nails — ногтевой сервис"}],"beforeAfter":[]},
+  "services":{"intro":"Показываем только опубликованную стоимость. Остальные цены уточняются при записи.","categories":[{"id":"manicure","label":"Маникюр","services":[{"name":"Маникюр с покрытием","description":"Классический маникюр с покрытием.","price":{"type":"text","value":"1 000–2 500 ₽"}},{"name":"Аппаратный / комбинированный маникюр","price":{"type":"text","value":"Уточнить"}},{"name":"Дизайн ногтей","price":{"type":"text","value":"Уточнить"}}]},{"id":"pedicure","label":"Педикюр","services":[{"name":"Женский педикюр","price":{"type":"text","value":"Уточнить"}},{"name":"Аппаратный / комбинированный педикюр","price":{"type":"text","value":"Уточнить"}}]}]},
+  "promotions":[],
+  "reviews":[],
+  "amenities":[{"title":"Wi‑Fi","text":"Доступен по информации Яндекс Карт"},{"title":"Подарочные сертификаты","text":"Указаны в карточке мастера"},{"title":"Предварительная запись","text":"Приём по записи"}],
+  "seo":{"title":"Snezhana Nails — мастер ногтевого сервиса в Москве","description":"Snezhana Nails: маникюр, педикюр, контакты и запись в Москве.","keywords":["Snezhana Nails","маникюр","педикюр","Москва"],"locale":"ru_RU"},
+  "analytics":{},
+  "deployment":{}
+}
